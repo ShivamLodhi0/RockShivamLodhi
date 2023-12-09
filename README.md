@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RockShivamLodhi
+- 👋 Hi, I’m @TheRockShivam
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Ethical Hacking
